@@ -3,18 +3,19 @@
     "id": "1",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_001_EN.webp",
     "hp": "Unknown",
+    "energy": "N/A",
     "name": "Potion",
-    "card_type": "Trainer",
-    "evolution_type": "Item",
+    "card_type": "trainer",
+    "evolution_type": "item",
     "attacks": [],
     "ability": "Heal 20 damage from 1 of your Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                5ban Graphics",
     "weakness": "N/A",
     "retreat": "N/A",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #1",
@@ -28,18 +29,19 @@
     "id": "2",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_002_EN.webp",
     "hp": "Unknown",
+    "energy": "N/A",
     "name": "X Speed",
-    "card_type": "Trainer",
-    "evolution_type": "Item",
+    "card_type": "trainer",
+    "evolution_type": "item",
     "attacks": [],
     "ability": "During this turn, the Retreat Cost of your Active Pokémon is 1 less.\n\n            \n                    \n    \n            Illustrated by \n            \n                Toyste Beach",
     "weakness": "N/A",
     "retreat": "N/A",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #2",
@@ -53,18 +55,19 @@
     "id": "3",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_003_EN.webp",
     "hp": "Unknown",
+    "energy": "N/A",
     "name": "Hand Scope",
-    "card_type": "Trainer",
-    "evolution_type": "Item",
+    "card_type": "trainer",
+    "evolution_type": "item",
     "attacks": [],
     "ability": "Your opponent reveals their hand.\n\n            \n                    \n    \n            Illustrated by \n            \n                Toyste Beach",
     "weakness": "N/A",
     "retreat": "N/A",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #3",
@@ -78,18 +81,19 @@
     "id": "4",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_004_EN.webp",
     "hp": "Unknown",
+    "energy": "N/A",
     "name": "Pokédex",
-    "card_type": "Trainer",
-    "evolution_type": "Item",
+    "card_type": "trainer",
+    "evolution_type": "item",
     "attacks": [],
     "ability": "Look at the top 3 cards of your deck.\n\n            \n                    \n    \n            Illustrated by \n            \n                Ryo Ueda",
     "weakness": "N/A",
     "retreat": "N/A",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "Yes",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "yes",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #4",
@@ -107,22 +111,27 @@
     "id": "5",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_005_EN.webp",
     "hp": "Unknown",
+    "energy": "N/A",
     "name": "Poké Ball",
-    "card_type": "Trainer",
-    "evolution_type": "Item",
+    "card_type": "trainer",
+    "evolution_type": "item",
     "attacks": [],
     "ability": "Put 1 random Basic Pokemon from your deck into your hand.\n\n            \n                    \n    \n            Illustrated by \n            \n                Ryo Ueda",
     "weakness": "N/A",
     "retreat": "N/A",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #5",
         "rarity": ""
+      },
+      {
+        "version": "Shining Revelry #111",
+        "rarity": "♛"
       }
     ],
     "artist": "Ryo Ueda",
@@ -132,18 +141,19 @@
     "id": "6",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_006_EN.webp",
     "hp": "Unknown",
+    "energy": "N/A",
     "name": "Red Card",
-    "card_type": "Trainer",
-    "evolution_type": "Item",
+    "card_type": "trainer",
+    "evolution_type": "item",
     "attacks": [],
     "ability": "Your opponent shuffles their hand into their deck and draws 3 cards.\n\n            \n                    \n    \n            Illustrated by \n            \n                5ban Graphics",
     "weakness": "N/A",
     "retreat": "N/A",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #6",
@@ -157,18 +167,19 @@
     "id": "7",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_007_EN.webp",
     "hp": "Unknown",
+    "energy": "N/A",
     "name": "Professor's Research",
-    "card_type": "Trainer",
-    "evolution_type": "Supporter",
+    "card_type": "trainer",
+    "evolution_type": "supporter",
     "attacks": [],
     "ability": "Draw 2 cards.\n\n            \n                    \n    \n            Illustrated by \n            \n                Naoki Saito",
     "weakness": "N/A",
     "retreat": "N/A",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #7",
@@ -182,18 +193,19 @@
     "id": "8",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_008_EN.webp",
     "hp": "Unknown",
+    "energy": "N/A",
     "name": "Pokédex",
-    "card_type": "Trainer",
-    "evolution_type": "Item",
+    "card_type": "trainer",
+    "evolution_type": "item",
     "attacks": [],
     "ability": "Look at the top 3 cards of your deck.\n\n            \n                    \n    \n            Illustrated by \n            \n                Yuu Nishida",
     "weakness": "N/A",
     "retreat": "N/A",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "Yes",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "yes",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #4",
@@ -211,9 +223,10 @@
     "id": "9",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_009_EN.webp",
     "hp": "60",
+    "energy": "Lightning",
     "name": "Pikachu",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Lightning"],
@@ -226,13 +239,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #94",
@@ -258,9 +271,10 @@
     "id": "10",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp",
     "hp": "120",
+    "energy": "Psychic",
     "name": "Mewtwo",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Psychic", "Psychic", "Colorless", "Colorless"],
@@ -273,13 +287,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Darkness",
+    "weakness": "darkness",
     "retreat": "2",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #128",
@@ -297,9 +311,10 @@
     "id": "11",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_011_EN.webp",
     "hp": "120",
+    "energy": "Colorless",
     "name": "Chansey",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Colorless", "Colorless", "Colorless"],
@@ -312,13 +327,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "retreat": "3",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #202",
@@ -336,9 +351,10 @@
     "id": "12",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_012_EN.webp",
     "hp": "60",
+    "energy": "Colorless",
     "name": "Meowth",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Colorless"],
@@ -351,13 +367,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #196",
@@ -379,9 +395,10 @@
     "id": "13",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_013_EN.webp",
     "hp": "120",
+    "energy": "Grass",
     "name": "Butterfree",
-    "card_type": "Pokémon",
-    "evolution_type": "Stage 2",
+    "card_type": "pokémon",
+    "evolution_type": "stage2",
     "attacks": [
       {
         "cost": ["Grass", "Colorless", "Colorless"],
@@ -394,13 +411,13 @@
       "name": "Powder Heal",
       "effect": "Once during your turn, you may heal 20 damage from each of your Pokémon."
     },
-    "weakness": "Fire",
+    "weakness": "fire",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #7",
@@ -418,9 +435,10 @@
     "id": "14",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_014_EN.webp",
     "hp": "140",
+    "energy": "Water",
     "name": "Lapras ex",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Water", "Water", "Colorless"],
@@ -433,13 +451,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "retreat": "3",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "Yes",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "yes",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #14",
@@ -453,9 +471,10 @@
     "id": "15",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_015_EN.webp",
     "hp": "60",
+    "energy": "Lightning",
     "name": "Pikachu",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Lightning"],
@@ -468,13 +487,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #94",
@@ -500,9 +519,10 @@
     "id": "16",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_016_EN.webp",
     "hp": "60",
+    "energy": "Psychic",
     "name": "Clefairy",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Psychic"],
@@ -515,13 +535,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Metal",
+    "weakness": "metal",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #113",
@@ -538,10 +558,11 @@
   {
     "id": "17",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_017_EN.webp",
-    "hp": "60",
+    "hp": "50",
+    "energy": "Fighting",
     "name": "Mankey",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Fighting"],
@@ -554,13 +575,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #17",
@@ -574,9 +595,10 @@
     "id": "18",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_018_EN.webp",
     "hp": "160",
+    "energy": "Grass",
     "name": "Venusaur",
-    "card_type": "Pokémon",
-    "evolution_type": "Stage 2",
+    "card_type": "pokémon",
+    "evolution_type": "stage2",
     "attacks": [
       {
         "cost": ["Grass", "Grass", "Colorless", "Colorless"],
@@ -589,13 +611,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fire",
+    "weakness": "fire",
     "retreat": "3",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #3",
@@ -613,9 +635,10 @@
     "id": "19",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_019_EN.webp",
     "hp": "120",
+    "energy": "Water",
     "name": "Greninja",
-    "card_type": "Pokémon",
-    "evolution_type": "Stage 2",
+    "card_type": "pokémon",
+    "evolution_type": "stage2",
     "attacks": [
       {
         "cost": ["Water", "Colorless"],
@@ -628,13 +651,13 @@
       "name": "Water Shuriken",
       "effect": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon."
     },
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #89",
@@ -652,9 +675,10 @@
     "id": "20",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_020_EN.webp",
     "hp": "70",
+    "energy": "Psychic",
     "name": "Haunter",
-    "card_type": "Pokémon",
-    "evolution_type": "Stage 1",
+    "card_type": "pokémon",
+    "evolution_type": "stage1",
     "attacks": [
       {
         "cost": ["Psychic"],
@@ -667,13 +691,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Darkness",
+    "weakness": "darkness",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #20",
@@ -687,9 +711,10 @@
     "id": "21",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_021_EN.webp",
     "hp": "110",
+    "energy": "Fighting",
     "name": "Onix",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Fighting", "Fighting", "Fighting"],
@@ -702,13 +727,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Grass",
+    "weakness": "grass",
     "retreat": "4",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #150",
@@ -726,9 +751,10 @@
     "id": "22",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_022_EN.webp",
     "hp": "60",
+    "energy": "Colorless",
     "name": "Jigglypuff",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Colorless"],
@@ -741,13 +767,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #22",
@@ -761,9 +787,10 @@
     "id": "23",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_023_EN.webp",
     "hp": "70",
+    "energy": "Grass",
     "name": "Bulbasaur",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Grass", "Colorless"],
@@ -776,13 +803,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fire",
+    "weakness": "fire",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #1",
@@ -804,9 +831,10 @@
     "id": "24",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_024_EN.webp",
     "hp": "60",
+    "energy": "Lightning",
     "name": "Magnemite",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Lightning"],
@@ -819,13 +847,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #97",
@@ -843,9 +871,10 @@
     "id": "25",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_025_EN.webp",
     "hp": "140",
+    "energy": "Fire",
     "name": "Moltres ex",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Fire"],
@@ -864,13 +893,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "retreat": "2",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "Yes",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "yes",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #47",
@@ -896,9 +925,10 @@
     "id": "26",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_026_EN.webp",
     "hp": "60",
+    "energy": "Lightning",
     "name": "Pikachu",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Lightning"],
@@ -911,13 +941,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #94",
@@ -943,9 +973,10 @@
     "id": "27",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_027_EN.webp",
     "hp": "60",
+    "energy": "Grass",
     "name": "Snivy",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Grass"],
@@ -958,13 +989,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fire",
+    "weakness": "fire",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #27",
@@ -978,9 +1009,10 @@
     "id": "28",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_028_EN.webp",
     "hp": "120",
+    "energy": "Fire",
     "name": "Volcarona",
-    "card_type": "Pokémon",
-    "evolution_type": "Stage 1",
+    "card_type": "pokémon",
+    "evolution_type": "stage1",
     "attacks": [
       {
         "cost": ["Fire", "Fire", "Colorless"],
@@ -993,13 +1025,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Water",
+    "weakness": "water",
     "retreat": "2",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Mythical Island #14",
@@ -1017,9 +1049,10 @@
     "id": "29",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_029_EN.webp",
     "hp": "150",
+    "energy": "Water",
     "name": "Blastoise",
-    "card_type": "Pokémon",
-    "evolution_type": "Stage 2",
+    "card_type": "pokémon",
+    "evolution_type": "stage2",
     "attacks": [
       {
         "cost": ["Water", "Water", "Colorless"],
@@ -1032,13 +1065,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "retreat": "3",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #55",
@@ -1056,9 +1089,10 @@
     "id": "30",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_030_EN.webp",
     "hp": "60",
+    "energy": "Colorless",
     "name": "Eevee",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Colorless"],
@@ -1071,13 +1105,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #30",
@@ -1091,9 +1125,10 @@
     "id": "31",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_031_EN.webp",
     "hp": "90",
+    "energy": "Colorless",
     "name": "Cinccino",
-    "card_type": "Pokémon",
-    "evolution_type": "Stage 1",
+    "card_type": "pokémon",
+    "evolution_type": "stage1",
     "attacks": [
       {
         "cost": ["Colorless", "Colorless", "Colorless"],
@@ -1106,13 +1141,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #213",
@@ -1130,9 +1165,10 @@
     "id": "32",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_032_EN.webp",
     "hp": "60",
+    "energy": "Fire",
     "name": "Charmander",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Fire"],
@@ -1145,13 +1181,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Water",
+    "weakness": "water",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #33",
@@ -1173,9 +1209,10 @@
     "id": "33",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_033_EN.webp",
     "hp": "60",
+    "energy": "Water",
     "name": "Squirtle",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Water"],
@@ -1188,13 +1225,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Genetic Apex #53",
@@ -1216,9 +1253,10 @@
     "id": "34",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_034_EN.webp",
     "hp": "60",
+    "energy": "Water",
     "name": "Piplup",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Colorless"],
@@ -1231,13 +1269,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Space-Time Smackdown #35",
@@ -1255,9 +1293,10 @@
     "id": "35",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_035_EN.webp",
     "hp": "80",
+    "energy": "Grass",
     "name": "Turtwig",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Grass", "Colorless"],
@@ -1270,13 +1309,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fire",
+    "weakness": "fire",
     "retreat": "2",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Space-Time Smackdown #10",
@@ -1294,9 +1333,10 @@
     "id": "36",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_036_EN.webp",
     "hp": "120",
+    "energy": "Lightning",
     "name": "Electivire",
-    "card_type": "Pokémon",
-    "evolution_type": "Stage 1",
+    "card_type": "pokémon",
+    "evolution_type": "stage1",
     "attacks": [
       {
         "cost": ["Lightning", "Lightning"],
@@ -1309,13 +1349,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "retreat": "3",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Space-Time Smackdown #57",
@@ -1333,9 +1373,10 @@
     "id": "37",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_037_EN.webp",
     "hp": "140",
+    "energy": "Psychic",
     "name": "Cresselia ex",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Psychic", "Psychic", "Colorless"],
@@ -1348,13 +1389,13 @@
       "name": "Lunar Plumage",
       "effect": "Whenever you attach a  Energy from your Energy Zone to this Pokémon, heal 20 damage from this Pokémon."
     },
-    "weakness": "Darkness",
+    "weakness": "darkness",
     "retreat": "2",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "Yes",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "yes",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #37",
@@ -1368,9 +1409,10 @@
     "id": "38",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_038_EN.webp",
     "hp": "60",
+    "energy": "Psychic",
     "name": "Misdreavus",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Psychic"],
@@ -1383,13 +1425,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Darkness",
+    "weakness": "darkness",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #38",
@@ -1403,9 +1445,10 @@
     "id": "39",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_039_EN.webp",
     "hp": "80",
+    "energy": "Metal",
     "name": "Skarmory",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Metal"],
@@ -1418,13 +1461,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Space-Time Smackdown #111",
@@ -1442,9 +1485,10 @@
     "id": "40",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_040_EN.webp",
     "hp": "60",
+    "energy": "Fire",
     "name": "Chimchar",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Fire"],
@@ -1457,13 +1501,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Water",
+    "weakness": "water",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Space-Time Smackdown #27",
@@ -1481,9 +1525,10 @@
     "id": "41",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_041_EN.webp",
     "hp": "50",
+    "energy": "Psychic",
     "name": "Togepi",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Psychic"],
@@ -1496,13 +1541,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Metal",
+    "weakness": "metal",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Space-Time Smackdown #63",
@@ -1520,9 +1565,10 @@
     "id": "42",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_042_EN.webp",
     "hp": "140",
+    "energy": "Darkness",
     "name": "Darkrai ex",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Darkness", "Darkness", "Colorless"],
@@ -1535,13 +1581,13 @@
       "name": "Nightmare Aura",
       "effect": "Whenever you attach a  Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
     },
-    "weakness": "Grass",
+    "weakness": "grass",
     "retreat": "2",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "Yes",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "yes",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Space-Time Smackdown #110",
@@ -1567,9 +1613,10 @@
     "id": "43",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_043_EN.webp",
     "hp": "80",
+    "energy": "Grass",
     "name": "Cherrim",
-    "card_type": "Pokémon",
-    "evolution_type": "Stage 1",
+    "card_type": "pokémon",
+    "evolution_type": "stage1",
     "attacks": [
       {
         "cost": ["Grass", "Grass"],
@@ -1582,13 +1629,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fire",
+    "weakness": "fire",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Triumphant Light #8",
@@ -1606,9 +1653,10 @@
     "id": "44",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_044_EN.webp",
     "hp": "90",
+    "energy": "Lightning",
     "name": "Raichu",
-    "card_type": "Pokémon",
-    "evolution_type": "Stage 1",
+    "card_type": "pokémon",
+    "evolution_type": "stage1",
     "attacks": [
       {
         "cost": ["Lightning", "Lightning"],
@@ -1621,13 +1669,13 @@
       "name": "Resilience Link",
       "effect": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
     },
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Triumphant Light #26",
@@ -1645,9 +1693,10 @@
     "id": "45",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_045_EN.webp",
     "hp": "60",
+    "energy": "Fighting",
     "name": "Nosepass",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Colorless", "Colorless"],
@@ -1660,13 +1709,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Grass",
+    "weakness": "grass",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #45",
@@ -1680,9 +1729,10 @@
     "id": "46",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_046_EN.webp",
     "hp": "60",
+    "energy": "Fighting",
     "name": "Gible",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Fighting"],
@@ -1695,13 +1745,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Grass",
+    "weakness": "grass",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Triumphant Light #45",
@@ -1719,9 +1769,10 @@
     "id": "47",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_047_EN.webp",
     "hp": "140",
+    "energy": "Colorless",
     "name": "Staraptor",
-    "card_type": "Pokémon",
-    "evolution_type": "Stage 2",
+    "card_type": "pokémon",
+    "evolution_type": "stage2",
     "attacks": [
       {
         "cost": ["Colorless", "Colorless", "Colorless"],
@@ -1734,13 +1785,13 @@
       "name": "Defensive Whirlwind",
       "effect": "This Pokémon takes −30 damage from attacks from  Pokémon."
     },
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Promo-A #47",
@@ -1754,9 +1805,10 @@
     "id": "48",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_048_EN.webp",
     "hp": "50",
+    "energy": "Water",
     "name": "Manaphy",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Water"],
@@ -1769,13 +1821,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "retreat": "1",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Space-Time Smackdown #50",
@@ -1797,9 +1849,10 @@
     "id": "49",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_049_EN.webp",
     "hp": "140",
+    "energy": "Colorless",
     "name": "Snorlax",
-    "card_type": "Pokémon",
-    "evolution_type": "Basic",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
     "attacks": [
       {
         "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
@@ -1812,13 +1865,13 @@
       "name": "No ability",
       "effect": "N/A"
     },
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "retreat": "4",
     "rarity": "Unknown",
     "fullart": "No",
-    "ex": "No",
-    "set_details": "Promo-A",
-    "pack": "Every pack",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
     "alternate_versions": [
       {
         "version": "Triumphant Light #63",
@@ -1830,6 +1883,424 @@
       }
     ],
     "artist": "okayamatakatoshi",
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "50",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_050_EN.webp",
+    "hp": "150",
+    "energy": "Psychic",
+    "name": "Mewtwo ex",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Colorless"],
+        "name": "Psychic Sphere",
+        "damage": "50",
+        "effect": "No effect"
+      },
+      {
+        "cost": ["Psychic", "Psychic", "Colorless", "Colorless"],
+        "name": "Psydrive",
+        "damage": "150",
+        "effect": "Discard 2 [P] Energy from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "darkness",
+    "retreat": "2",
+    "rarity": "Unknown",
+    "fullart": "No",
+    "ex": "yes",
+    "set_details": "promo-a",
+    "pack": "everypack",
+    "alternate_versions": [
+      {
+        "version": "Genetic Apex #129",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Genetic Apex #262",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Genetic Apex #282",
+        "rarity": "☆☆☆"
+      },
+      {
+        "version": "Genetic Apex #286",
+        "rarity": "♛"
+      },
+      {
+        "version": "Promo-A #50",
+        "rarity": ""
+      }
+    ],
+    "artist": "PLANETA Mochizuki",
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "51",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_051_EN.webp",
+    "hp": "80",
+    "energy": "Colorless",
+    "name": "Cyclizar",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Overacceleration",
+        "damage": "20",
+        "effect": "During your next turn, this Pokémon's Overacceleration attack does +20 damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "fighting",
+    "retreat": "1",
+    "rarity": "Unknown",
+    "fullart": "No",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #68",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Promo-A #51",
+        "rarity": ""
+      }
+    ],
+    "artist": "Shigenori Negishi",
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "52",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_052_EN.webp",
+    "hp": "60",
+    "energy": "Grass",
+    "name": "Sprigatito",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
+    "attacks": [
+      {
+        "cost": ["Grass"],
+        "name": "Cry for",
+        "damage": "Help",
+        "effect": "Put 1 random [G] Pokémon from your deck into your hand."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "fire",
+    "retreat": "1",
+    "rarity": "Unknown",
+    "fullart": "No",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #5",
+        "rarity": "◊"
+      },
+      {
+        "version": "Promo-A #52",
+        "rarity": ""
+      }
+    ],
+    "artist": "MINAMINAMI Take",
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "53",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_053_EN.webp",
+    "hp": "100",
+    "energy": "Water",
+    "name": "Floatzel",
+    "card_type": "pokémon",
+    "evolution_type": "stage1",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Attack the Wound",
+        "damage": "10+",
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "lightning",
+    "retreat": "1",
+    "rarity": "Unknown",
+    "fullart": "No",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
+    "alternate_versions": [
+      {
+        "version": "Promo-A #53",
+        "rarity": ""
+      }
+    ],
+    "artist": "Shin Nagasawa",
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "54",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_054_EN.webp",
+    "hp": "140",
+    "energy": "Lightning",
+    "name": "Pawmot",
+    "card_type": "pokémon",
+    "evolution_type": "stage2",
+    "attacks": [
+      {
+        "cost": ["Lightning", "Lightning"],
+        "name": "Electric Punch",
+        "damage": "70",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Counterattack",
+      "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+    },
+    "weakness": "fighting",
+    "retreat": "0",
+    "rarity": "Unknown",
+    "fullart": "No",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #28",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Promo-A #54",
+        "rarity": ""
+      }
+    ],
+    "artist": "REND",
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "55",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_055_EN.webp",
+    "hp": "150",
+    "energy": "Fighting",
+    "name": "Machamp",
+    "card_type": "pokémon",
+    "evolution_type": "stage2",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting"],
+        "name": "Power Press",
+        "damage": "70+",
+        "effect": "If this Pokémon has at least 2 extra [F] Energy attached, this attack does 50 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "psychic",
+    "retreat": "2",
+    "rarity": "Unknown",
+    "fullart": "No",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #39",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Promo-A #55",
+        "rarity": ""
+      }
+    ],
+    "artist": "Masakazu Fukuda",
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "56",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_056_EN.webp",
+    "hp": "60",
+    "energy": "Darkness",
+    "name": "Ekans",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
+    "attacks": [
+      {
+        "cost": ["Darkness"],
+        "name": "Poison",
+        "damage": "Sting",
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "fighting",
+    "retreat": "1",
+    "rarity": "Unknown",
+    "fullart": "No",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
+    "alternate_versions": [
+      {
+        "version": "Promo-A #56",
+        "rarity": ""
+      }
+    ],
+    "artist": "Krgc",
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "57",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_057_EN.webp",
+    "hp": "70",
+    "energy": "Colorless",
+    "name": "Bidoof",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless"],
+        "name": "Headbutt",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "fighting",
+    "retreat": "2",
+    "rarity": "Unknown",
+    "fullart": "No",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #64",
+        "rarity": "◊"
+      },
+      {
+        "version": "Promo-A #57",
+        "rarity": ""
+      }
+    ],
+    "artist": "Kouki Saitou",
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "58",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_058_EN.webp",
+    "hp": "70",
+    "energy": "Lightning",
+    "name": "Pachirisu",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
+    "attacks": [
+      {
+        "cost": ["Lightning"],
+        "name": "Plasma",
+        "damage": "10",
+        "effect": "Take a [L] Energy from your Energy Zone and attach it to 1 of your Benched [L] Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "fighting",
+    "retreat": "1",
+    "rarity": "Unknown",
+    "fullart": "No",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #25",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Shining Revelry #103",
+        "rarity": "☆"
+      },
+      {
+        "version": "Promo-A #58",
+        "rarity": ""
+      }
+    ],
+    "artist": "OOYAMA",
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "59",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_059_EN.webp",
+    "hp": "70",
+    "energy": "Fighting",
+    "name": "Riolu",
+    "card_type": "pokémon",
+    "evolution_type": "basic",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting"],
+        "name": "Punch",
+        "damage": "40",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "psychic",
+    "retreat": "1",
+    "rarity": "Unknown",
+    "fullart": "No",
+    "ex": "no",
+    "set_details": "promo-a",
+    "pack": "everypack",
+    "alternate_versions": [
+      {
+        "version": "Shining Revelry #42",
+        "rarity": "◊"
+      },
+      {
+        "version": "Shining Revelry #104",
+        "rarity": "☆"
+      },
+      {
+        "version": "Promo-A #59",
+        "rarity": ""
+      }
+    ],
+    "artist": "Akira Komayama",
     "crafting_cost": "Unknown"
   }
 ]
