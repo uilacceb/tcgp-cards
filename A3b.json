@@ -1,7 +1,7 @@
 [
   {
     "card_id": "A3b-1",
-    "image": "/images/en-US/A3b-1.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_001_EN.webp",
     "hp": "100",
     "energy": "Grass",
     "name": "Tropius",
@@ -38,7 +38,7 @@
   },
   {
     "card_id": "A3b-2",
-    "image": "/images/en-US/A3b-2.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_002_EN.webp",
     "hp": "90",
     "energy": "Grass",
     "name": "Leafeon",
@@ -80,7 +80,7 @@
   },
   {
     "card_id": "A3b-3",
-    "image": "/images/en-US/A3b-3.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_003_EN.webp",
     "hp": "60",
     "energy": "Grass",
     "name": "Bounsweet",
@@ -117,7 +117,7 @@
   },
   {
     "card_id": "A3b-4",
-    "image": "/images/en-US/A3b-4.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_004_EN.webp",
     "hp": "80",
     "energy": "Grass",
     "name": "Steenee",
@@ -154,7 +154,7 @@
   },
   {
     "card_id": "A3b-5",
-    "image": "/images/en-US/A3b-5.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_005_EN.webp",
     "hp": "140",
     "energy": "Grass",
     "name": "Tsareena",
@@ -191,7 +191,7 @@
   },
   {
     "card_id": "A3b-6",
-    "image": "/images/en-US/A3b-6.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_006_EN.webp",
     "hp": "40",
     "energy": "Grass",
     "name": "Applin",
@@ -228,7 +228,7 @@
   },
   {
     "card_id": "A3b-7",
-    "image": "/images/en-US/A3b-7.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_007_EN.webp",
     "hp": "90",
     "energy": "Grass",
     "name": "Appletun",
@@ -265,7 +265,7 @@
   },
   {
     "card_id": "A3b-8",
-    "image": "/images/en-US/A3b-8.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_008_EN.webp",
     "hp": "110",
     "energy": "Fire",
     "name": "Flareon",
@@ -307,7 +307,7 @@
   },
   {
     "card_id": "A3b-9",
-    "image": "/images/en-US/A3b-9.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_009_EN.webp",
     "hp": "150",
     "energy": "Fire",
     "name": "Flareon ex",
@@ -354,7 +354,7 @@
   },
   {
     "card_id": "A3b-10",
-    "image": "/images/en-US/A3b-10.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_010_EN.webp",
     "hp": "100",
     "energy": "Fire",
     "name": "Torkoal",
@@ -391,7 +391,7 @@
   },
   {
     "card_id": "A3b-11",
-    "image": "/images/en-US/A3b-11.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_011_EN.webp",
     "hp": "70",
     "energy": "Fire",
     "name": "Litten",
@@ -428,7 +428,7 @@
   },
   {
     "card_id": "A3b-12",
-    "image": "/images/en-US/A3b-12.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_012_EN.webp",
     "hp": "80",
     "energy": "Fire",
     "name": "Torracat",
@@ -465,7 +465,7 @@
   },
   {
     "card_id": "A3b-13",
-    "image": "/images/en-US/A3b-13.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_013_EN.webp",
     "hp": "150",
     "energy": "Fire",
     "name": "Incineroar",
@@ -502,7 +502,7 @@
   },
   {
     "card_id": "A3b-14",
-    "image": "/images/en-US/A3b-14.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_014_EN.webp",
     "hp": "60",
     "energy": "Fire",
     "name": "Salandit",
@@ -539,7 +539,7 @@
   },
   {
     "card_id": "A3b-15",
-    "image": "/images/en-US/A3b-15.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_015_EN.webp",
     "hp": "90",
     "energy": "Fire",
     "name": "Salazzle",
@@ -576,7 +576,7 @@
   },
   {
     "card_id": "A3b-16",
-    "image": "/images/en-US/A3b-16.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_016_EN.webp",
     "hp": "120",
     "energy": "Water",
     "name": "Vaporeon",
@@ -618,7 +618,7 @@
   },
   {
     "card_id": "A3b-17",
-    "image": "/images/en-US/A3b-17.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_017_EN.webp",
     "hp": "100",
     "energy": "Water",
     "name": "Glaceon",
@@ -660,7 +660,7 @@
   },
   {
     "card_id": "A3b-18",
-    "image": "/images/en-US/A3b-18.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_018_EN.webp",
     "hp": "60",
     "energy": "Water",
     "name": "Vanillite",
@@ -702,7 +702,7 @@
   },
   {
     "card_id": "A3b-19",
-    "image": "/images/en-US/A3b-19.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_019_EN.webp",
     "hp": "80",
     "energy": "Water",
     "name": "Vanillish",
@@ -739,7 +739,7 @@
   },
   {
     "card_id": "A3b-20",
-    "image": "/images/en-US/A3b-20.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_020_EN.webp",
     "hp": "140",
     "energy": "Water",
     "name": "Vanilluxe",
@@ -776,7 +776,7 @@
   },
   {
     "card_id": "A3b-21",
-    "image": "/images/en-US/A3b-21.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_021_EN.webp",
     "hp": "110",
     "energy": "Water",
     "name": "Alomomola",
@@ -813,7 +813,7 @@
   },
   {
     "card_id": "A3b-22",
-    "image": "/images/en-US/A3b-22.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_022_EN.webp",
     "hp": "70",
     "energy": "Water",
     "name": "Popplio",
@@ -850,7 +850,7 @@
   },
   {
     "card_id": "A3b-23",
-    "image": "/images/en-US/A3b-23.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_023_EN.webp",
     "hp": "90",
     "energy": "Water",
     "name": "Brionne",
@@ -887,7 +887,7 @@
   },
   {
     "card_id": "A3b-24",
-    "image": "/images/en-US/A3b-24.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_024_EN.webp",
     "hp": "180",
     "energy": "Water",
     "name": "Primarina ex",
@@ -940,7 +940,7 @@
   },
   {
     "card_id": "A3b-25",
-    "image": "/images/en-US/A3b-25.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_025_EN.webp",
     "hp": "90",
     "energy": "Lightning",
     "name": "Jolteon",
@@ -987,7 +987,7 @@
   },
   {
     "card_id": "A3b-26",
-    "image": "/images/en-US/A3b-26.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_026_EN.webp",
     "hp": "40",
     "energy": "Lightning",
     "name": "Joltik",
@@ -1024,7 +1024,7 @@
   },
   {
     "card_id": "A3b-27",
-    "image": "/images/en-US/A3b-27.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_027_EN.webp",
     "hp": "80",
     "energy": "Lightning",
     "name": "Galvantula",
@@ -1061,7 +1061,7 @@
   },
   {
     "card_id": "A3b-28",
-    "image": "/images/en-US/A3b-28.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_028_EN.webp",
     "hp": "100",
     "energy": "Psychic",
     "name": "Espeon",
@@ -1103,7 +1103,7 @@
   },
   {
     "card_id": "A3b-29",
-    "image": "/images/en-US/A3b-29.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_029_EN.webp",
     "hp": "60",
     "energy": "Psychic",
     "name": "Woobat",
@@ -1140,7 +1140,7 @@
   },
   {
     "card_id": "A3b-30",
-    "image": "/images/en-US/A3b-30.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_030_EN.webp",
     "hp": "100",
     "energy": "Psychic",
     "name": "Swoobat",
@@ -1177,7 +1177,7 @@
   },
   {
     "card_id": "A3b-31",
-    "image": "/images/en-US/A3b-31.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_031_EN.webp",
     "hp": "60",
     "energy": "Psychic",
     "name": "Swirlix",
@@ -1214,7 +1214,7 @@
   },
   {
     "card_id": "A3b-32",
-    "image": "/images/en-US/A3b-32.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_032_EN.webp",
     "hp": "120",
     "energy": "Psychic",
     "name": "Slurpuff",
@@ -1251,7 +1251,7 @@
   },
   {
     "card_id": "A3b-33",
-    "image": "/images/en-US/A3b-33.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_033_EN.webp",
     "hp": "90",
     "energy": "Psychic",
     "name": "Sylveon",
@@ -1293,7 +1293,7 @@
   },
   {
     "card_id": "A3b-34",
-    "image": "/images/en-US/A3b-34.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_034_EN.webp",
     "hp": "140",
     "energy": "Psychic",
     "name": "Sylveon ex",
@@ -1340,7 +1340,7 @@
   },
   {
     "card_id": "A3b-35",
-    "image": "/images/en-US/A3b-35.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_035_EN.webp",
     "hp": "70",
     "energy": "Psychic",
     "name": "Mimikyu",
@@ -1377,7 +1377,7 @@
   },
   {
     "card_id": "A3b-36",
-    "image": "/images/en-US/A3b-36.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_036_EN.webp",
     "hp": "50",
     "energy": "Psychic",
     "name": "Milcery",
@@ -1414,7 +1414,7 @@
   },
   {
     "card_id": "A3b-37",
-    "image": "/images/en-US/A3b-37.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_037_EN.webp",
     "hp": "80",
     "energy": "Psychic",
     "name": "Alcremie",
@@ -1456,7 +1456,7 @@
   },
   {
     "card_id": "A3b-38",
-    "image": "/images/en-US/A3b-38.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_038_EN.webp",
     "hp": "70",
     "energy": "Fighting",
     "name": "Barboach",
@@ -1493,7 +1493,7 @@
   },
   {
     "card_id": "A3b-39",
-    "image": "/images/en-US/A3b-39.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_039_EN.webp",
     "hp": "130",
     "energy": "Fighting",
     "name": "Whiscash",
@@ -1530,7 +1530,7 @@
   },
   {
     "card_id": "A3b-40",
-    "image": "/images/en-US/A3b-40.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_040_EN.webp",
     "hp": "60",
     "energy": "Fighting",
     "name": "Mienfoo",
@@ -1567,7 +1567,7 @@
   },
   {
     "card_id": "A3b-41",
-    "image": "/images/en-US/A3b-41.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_041_EN.webp",
     "hp": "90",
     "energy": "Fighting",
     "name": "Mienshao",
@@ -1604,7 +1604,7 @@
   },
   {
     "card_id": "A3b-42",
-    "image": "/images/en-US/A3b-42.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_042_EN.webp",
     "hp": "80",
     "energy": "Fighting",
     "name": "Carbink",
@@ -1641,7 +1641,7 @@
   },
   {
     "card_id": "A3b-43",
-    "image": "/images/en-US/A3b-43.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_043_EN.webp",
     "hp": "100",
     "energy": "Darkness",
     "name": "Umbreon",
@@ -1683,7 +1683,7 @@
   },
   {
     "card_id": "A3b-44",
-    "image": "/images/en-US/A3b-44.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_044_EN.webp",
     "hp": "70",
     "energy": "Darkness",
     "name": "Sableye",
@@ -1720,7 +1720,7 @@
   },
   {
     "card_id": "A3b-45",
-    "image": "/images/en-US/A3b-45.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_045_EN.webp",
     "hp": "60",
     "energy": "Darkness",
     "name": "Purrloin",
@@ -1757,7 +1757,7 @@
   },
   {
     "card_id": "A3b-46",
-    "image": "/images/en-US/A3b-46.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_046_EN.webp",
     "hp": "90",
     "energy": "Darkness",
     "name": "Liepard",
@@ -1794,7 +1794,7 @@
   },
   {
     "card_id": "A3b-47",
-    "image": "/images/en-US/A3b-47.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_047_EN.webp",
     "hp": "70",
     "energy": "Metal",
     "name": "Mawile",
@@ -1831,7 +1831,7 @@
   },
   {
     "card_id": "A3b-48",
-    "image": "/images/en-US/A3b-48.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_048_EN.webp",
     "hp": "80",
     "energy": "Metal",
     "name": "Togedemaru",
@@ -1873,7 +1873,7 @@
   },
   {
     "card_id": "A3b-49",
-    "image": "/images/en-US/A3b-49.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_049_EN.webp",
     "hp": "60",
     "energy": "Metal",
     "name": "Meltan",
@@ -1910,7 +1910,7 @@
   },
   {
     "card_id": "A3b-50",
-    "image": "/images/en-US/A3b-50.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_050_EN.webp",
     "hp": "140",
     "energy": "Metal",
     "name": "Melmetal",
@@ -1947,7 +1947,7 @@
   },
   {
     "card_id": "A3b-51",
-    "image": "/images/en-US/A3b-51.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_051_EN.webp",
     "hp": "60",
     "energy": "Dragon",
     "name": "Dratini",
@@ -1984,7 +1984,7 @@
   },
   {
     "card_id": "A3b-52",
-    "image": "/images/en-US/A3b-52.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_052_EN.webp",
     "hp": "90",
     "energy": "Dragon",
     "name": "Dragonair",
@@ -2021,7 +2021,7 @@
   },
   {
     "card_id": "A3b-53",
-    "image": "/images/en-US/A3b-53.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_053_EN.webp",
     "hp": "180",
     "energy": "Dragon",
     "name": "Dragonite ex",
@@ -2068,7 +2068,7 @@
   },
   {
     "card_id": "A3b-54",
-    "image": "/images/en-US/A3b-54.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_054_EN.webp",
     "hp": "100",
     "energy": "Dragon",
     "name": "Drampa",
@@ -2105,7 +2105,7 @@
   },
   {
     "card_id": "A3b-55",
-    "image": "/images/en-US/A3b-55.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_055_EN.webp",
     "hp": "60",
     "energy": "Colorless",
     "name": "Eevee",
@@ -2147,7 +2147,7 @@
   },
   {
     "card_id": "A3b-56",
-    "image": "/images/en-US/A3b-56.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_056_EN.webp",
     "hp": "90",
     "energy": "Colorless",
     "name": "Eevee ex",
@@ -2194,7 +2194,7 @@
   },
   {
     "card_id": "A3b-57",
-    "image": "/images/en-US/A3b-57.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_057_EN.webp",
     "hp": "160",
     "energy": "Colorless",
     "name": "Snorlax ex",
@@ -2241,7 +2241,7 @@
   },
   {
     "card_id": "A3b-58",
-    "image": "/images/en-US/A3b-58.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_058_EN.webp",
     "hp": "60",
     "energy": "Colorless",
     "name": "Aipom",
@@ -2278,7 +2278,7 @@
   },
   {
     "card_id": "A3b-59",
-    "image": "/images/en-US/A3b-59.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_059_EN.webp",
     "hp": "90",
     "energy": "Colorless",
     "name": "Ambipom",
@@ -2315,7 +2315,7 @@
   },
   {
     "card_id": "A3b-60",
-    "image": "/images/en-US/A3b-60.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_060_EN.webp",
     "hp": "70",
     "energy": "Colorless",
     "name": "Chatot",
@@ -2352,7 +2352,7 @@
   },
   {
     "card_id": "A3b-61",
-    "image": "/images/en-US/A3b-61.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_061_EN.webp",
     "hp": "90",
     "energy": "Colorless",
     "name": "Audino",
@@ -2389,7 +2389,7 @@
   },
   {
     "card_id": "A3b-62",
-    "image": "/images/en-US/A3b-62.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_062_EN.webp",
     "hp": "70",
     "energy": "Colorless",
     "name": "Minccino",
@@ -2426,7 +2426,7 @@
   },
   {
     "card_id": "A3b-63",
-    "image": "/images/en-US/A3b-63.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_063_EN.webp",
     "hp": "90",
     "energy": "Colorless",
     "name": "Cinccino",
@@ -2463,7 +2463,7 @@
   },
   {
     "card_id": "A3b-64",
-    "image": "/images/en-US/A3b-64.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_064_EN.webp",
     "hp": "70",
     "energy": "Colorless",
     "name": "Skwovet",
@@ -2500,7 +2500,7 @@
   },
   {
     "card_id": "A3b-65",
-    "image": "/images/en-US/A3b-65.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_065_EN.webp",
     "hp": "120",
     "energy": "Colorless",
     "name": "Greedent",
@@ -2542,7 +2542,7 @@
   },
   {
     "card_id": "A3b-66",
-    "image": "/images/en-US/A3b-66.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_066_EN.webp",
     "hp": "Unknown",
     "energy": "N/A",
     "name": "Eevee Bag",
@@ -2574,7 +2574,7 @@
   },
   {
     "card_id": "A3b-67",
-    "image": "/images/en-US/A3b-67.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_067_EN.webp",
     "hp": "Unknown",
     "energy": "N/A",
     "name": "Leftovers",
@@ -2601,7 +2601,7 @@
   },
   {
     "card_id": "A3b-68",
-    "image": "/images/en-US/A3b-68.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_068_EN.webp",
     "hp": "Unknown",
     "energy": "N/A",
     "name": "Hau",
@@ -2633,7 +2633,7 @@
   },
   {
     "card_id": "A3b-69",
-    "image": "/images/en-US/A3b-69.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_069_EN.webp",
     "hp": "Unknown",
     "energy": "N/A",
     "name": "Penny",
@@ -2665,7 +2665,7 @@
   },
   {
     "card_id": "A3b-70",
-    "image": "/images/en-US/A3b-70.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_070_EN.webp",
     "hp": "90",
     "energy": "Grass",
     "name": "Leafeon",
@@ -2707,7 +2707,7 @@
   },
   {
     "card_id": "A3b-71",
-    "image": "/images/en-US/A3b-71.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_071_EN.webp",
     "hp": "110",
     "energy": "Fire",
     "name": "Flareon",
@@ -2749,7 +2749,7 @@
   },
   {
     "card_id": "A3b-72",
-    "image": "/images/en-US/A3b-72.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_072_EN.webp",
     "hp": "120",
     "energy": "Water",
     "name": "Vaporeon",
@@ -2791,7 +2791,7 @@
   },
   {
     "card_id": "A3b-73",
-    "image": "/images/en-US/A3b-73.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_073_EN.webp",
     "hp": "100",
     "energy": "Water",
     "name": "Glaceon",
@@ -2833,7 +2833,7 @@
   },
   {
     "card_id": "A3b-74",
-    "image": "/images/en-US/A3b-74.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_074_EN.webp",
     "hp": "90",
     "energy": "Lightning",
     "name": "Jolteon",
@@ -2880,7 +2880,7 @@
   },
   {
     "card_id": "A3b-75",
-    "image": "/images/en-US/A3b-75.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_075_EN.webp",
     "hp": "100",
     "energy": "Psychic",
     "name": "Espeon",
@@ -2922,7 +2922,7 @@
   },
   {
     "card_id": "A3b-76",
-    "image": "/images/en-US/A3b-76.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_076_EN.webp",
     "hp": "90",
     "energy": "Psychic",
     "name": "Sylveon",
@@ -2964,7 +2964,7 @@
   },
   {
     "card_id": "A3b-77",
-    "image": "/images/en-US/A3b-77.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_077_EN.webp",
     "hp": "100",
     "energy": "Darkness",
     "name": "Umbreon",
@@ -3006,7 +3006,7 @@
   },
   {
     "card_id": "A3b-78",
-    "image": "/images/en-US/A3b-78.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_078_EN.webp",
     "hp": "60",
     "energy": "Colorless",
     "name": "Eevee",
@@ -3048,7 +3048,7 @@
   },
   {
     "card_id": "A3b-79",
-    "image": "/images/en-US/A3b-79.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_079_EN.webp",
     "hp": "150",
     "energy": "Fire",
     "name": "Flareon ex",
@@ -3095,7 +3095,7 @@
   },
   {
     "card_id": "A3b-80",
-    "image": "/images/en-US/A3b-80.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_080_EN.webp",
     "hp": "180",
     "energy": "Water",
     "name": "Primarina ex",
@@ -3148,7 +3148,7 @@
   },
   {
     "card_id": "A3b-81",
-    "image": "/images/en-US/A3b-81.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_081_EN.webp",
     "hp": "140",
     "energy": "Psychic",
     "name": "Sylveon ex",
@@ -3195,7 +3195,7 @@
   },
   {
     "card_id": "A3b-82",
-    "image": "/images/en-US/A3b-82.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_082_EN.webp",
     "hp": "180",
     "energy": "Dragon",
     "name": "Dragonite ex",
@@ -3242,7 +3242,7 @@
   },
   {
     "card_id": "A3b-83",
-    "image": "/images/en-US/A3b-83.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_083_EN.webp",
     "hp": "90",
     "energy": "Colorless",
     "name": "Eevee ex",
@@ -3289,7 +3289,7 @@
   },
   {
     "card_id": "A3b-84",
-    "image": "/images/en-US/A3b-84.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_084_EN.webp",
     "hp": "160",
     "energy": "Colorless",
     "name": "Snorlax ex",
@@ -3336,7 +3336,7 @@
   },
   {
     "card_id": "A3b-85",
-    "image": "/images/en-US/A3b-85.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_085_EN.webp",
     "hp": "Unknown",
     "energy": "N/A",
     "name": "Hau",
@@ -3368,7 +3368,7 @@
   },
   {
     "card_id": "A3b-86",
-    "image": "/images/en-US/A3b-86.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_086_EN.webp",
     "hp": "Unknown",
     "energy": "N/A",
     "name": "Penny",
@@ -3400,7 +3400,7 @@
   },
   {
     "card_id": "A3b-87",
-    "image": "/images/en-US/A3b-87.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_087_EN.webp",
     "hp": "150",
     "energy": "Fire",
     "name": "Flareon ex",
@@ -3447,7 +3447,7 @@
   },
   {
     "card_id": "A3b-88",
-    "image": "/images/en-US/A3b-88.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_088_EN.webp",
     "hp": "180",
     "energy": "Water",
     "name": "Primarina ex",
@@ -3500,7 +3500,7 @@
   },
   {
     "card_id": "A3b-89",
-    "image": "/images/en-US/A3b-89.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_089_EN.webp",
     "hp": "140",
     "energy": "Psychic",
     "name": "Sylveon ex",
@@ -3547,7 +3547,7 @@
   },
   {
     "card_id": "A3b-90",
-    "image": "/images/en-US/A3b-90.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_090_EN.webp",
     "hp": "180",
     "energy": "Dragon",
     "name": "Dragonite ex",
@@ -3594,7 +3594,7 @@
   },
   {
     "card_id": "A3b-91",
-    "image": "/images/en-US/A3b-91.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_091_EN.webp",
     "hp": "160",
     "energy": "Colorless",
     "name": "Snorlax ex",
@@ -3641,7 +3641,7 @@
   },
   {
     "card_id": "A3b-92",
-    "image": "/images/en-US/A3b-92.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_092_EN.webp",
     "hp": "90",
     "energy": "Colorless",
     "name": "Eevee ex",
@@ -3688,7 +3688,7 @@
   },
   {
     "card_id": "A3b-93",
-    "image": "/images/en-US/A3b-93.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_093_EN.webp",
     "hp": "90",
     "energy": "Grass",
     "name": "Pinsir",
@@ -3730,7 +3730,7 @@
   },
   {
     "card_id": "A3b-94",
-    "image": "/images/en-US/A3b-94.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_094_EN.webp",
     "hp": "100",
     "energy": "Water",
     "name": "Lapras",
@@ -3777,7 +3777,7 @@
   },
   {
     "card_id": "A3b-95",
-    "image": "/images/en-US/A3b-95.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_095_EN.webp",
     "hp": "60",
     "energy": "Lightning",
     "name": "Voltorb",
@@ -3819,7 +3819,7 @@
   },
   {
     "card_id": "A3b-96",
-    "image": "/images/en-US/A3b-96.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_096_EN.webp",
     "hp": "80",
     "energy": "Lightning",
     "name": "Electrode",
@@ -3861,7 +3861,7 @@
   },
   {
     "card_id": "A3b-97",
-    "image": "/images/en-US/A3b-97.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_097_EN.webp",
     "hp": "60",
     "energy": "Psychic",
     "name": "Ralts",
@@ -3903,7 +3903,7 @@
   },
   {
     "card_id": "A3b-98",
-    "image": "/images/en-US/A3b-98.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_098_EN.webp",
     "hp": "80",
     "energy": "Psychic",
     "name": "Kirlia",
@@ -3945,7 +3945,7 @@
   },
   {
     "card_id": "A3b-99",
-    "image": "/images/en-US/A3b-99.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_099_EN.webp",
     "hp": "110",
     "energy": "Psychic",
     "name": "Gardevoir",
@@ -3982,7 +3982,7 @@
   },
   {
     "card_id": "A3b-100",
-    "image": "/images/en-US/A3b-100.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_100_EN.webp",
     "hp": "60",
     "energy": "Darkness",
     "name": "Ekans",
@@ -4024,7 +4024,7 @@
   },
   {
     "card_id": "A3b-101",
-    "image": "/images/en-US/A3b-101.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_101_EN.webp",
     "hp": "100",
     "energy": "Darkness",
     "name": "Arbok",
@@ -4066,7 +4066,7 @@
   },
   {
     "card_id": "A3b-102",
-    "image": "/images/en-US/A3b-102.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_102_EN.webp",
     "hp": "60",
     "energy": "Colorless",
     "name": "Farfetch'd",
@@ -4113,7 +4113,7 @@
   },
   {
     "card_id": "A3b-103",
-    "image": "/images/en-US/A3b-103.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_103_EN.webp",
     "hp": "140",
     "energy": "Fire",
     "name": "Moltres ex",
@@ -4176,7 +4176,7 @@
   },
   {
     "card_id": "A3b-104",
-    "image": "/images/en-US/A3b-104.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_104_EN.webp",
     "hp": "140",
     "energy": "Water",
     "name": "Articuno ex",
@@ -4234,7 +4234,7 @@
   },
   {
     "card_id": "A3b-105",
-    "image": "/images/en-US/A3b-105.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_105_EN.webp",
     "hp": "130",
     "energy": "Lightning",
     "name": "Zapdos ex",
@@ -4292,7 +4292,7 @@
   },
   {
     "card_id": "A3b-106",
-    "image": "/images/en-US/A3b-106.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_106_EN.webp",
     "hp": "170",
     "energy": "Fighting",
     "name": "Gallade ex",
@@ -4344,7 +4344,7 @@
   },
   {
     "card_id": "A3b-107",
-    "image": "/images/en-US/A3b-107.webp",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_107_EN.webp",
     "hp": "Unknown",
     "energy": "N/A",
     "name": "Eevee Bag",
